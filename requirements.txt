@@ -36,6 +36,7 @@ executing==2.2.1
 fastjsonschema==2.21.2
 filelock==3.19.1
 findpython==0.7.0
+fpdf==1.7.2
 future==0.18.2
 h11==0.16.0
 hidpidaemon==18.4.6
